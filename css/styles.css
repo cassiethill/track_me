@@ -1,0 +1,80 @@
+body {
+	margin:0;
+}
+
+header {
+	height:80px;
+	width:100%;
+	background-color:#cdb380;
+}
+
+#logo {
+	height:80px;
+}
+
+button {
+	font-family: Bebas, sans-serif;
+	font-size:185.7%;
+	text-transform: uppercase;
+	color:#071834;
+	background-color: #0c6665;
+	border:none;
+	position:absolute;
+	top:15px;
+	right:100px;
+}
+
+#groups {
+	position:absolute;
+	right:25px;
+	top:10px;
+}
+
+/*#module {
+	background:url(../img/module.png) scroll no-repeat;
+	height: 332px;
+	width:332px;
+	display:inline-block;
+	position:relative;
+}
+
+h2 {
+	color:#071834;
+	font-family: Bebas, sans-serif;
+	font-size:150%;
+	text-transform: uppercase;
+	position: absolute;
+	left:178px;
+	top:65px;
+}
+
+h3 {
+	color:#071834;
+	font-family: Bebas, sans-serif;
+	font-size:175%;
+	text-transform: uppercase;
+	position: absolute;
+	top:85px;
+	left:178px;
+}
+
+p {
+	color:#071834;
+	font-family: Bebas, sans-serif;
+	font-size:100%;
+	text-transform: uppercase;
+	position: absolute;
+	width:200px;
+	bottom:100px;
+	left:30px;
+}
+
+h4 {
+	color:#071834;
+	font-family: Bebas, sans-serif;
+	font-size:150%;
+	text-transform: uppercase;
+	position: absolute;
+	bottom:8px;
+	left:133px;
+}*/
